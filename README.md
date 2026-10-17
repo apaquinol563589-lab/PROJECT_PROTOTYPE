@@ -322,7 +322,7 @@ Add screenshots captured from the current version of the application before fina
 1. **Main Menu** — shows Inventory Management, Category Manager, Stack Management, and Exit.
 ![image alt](https://github.com/apaquinol563589-lab/PROJECT_PROTOTYPE/blob/e07c5259dab04ffef101b51447e9d23ffedbe972/Screenshot%202026-10-17%20192924.png)
 3. **Inventory Management** — shows the input form and inventory table.
-![image alt]()
+![image alt](https://github.com/apaquinol563589-lab/PROJECT_PROTOTYPE/blob/330dfe91af4ba5617b6e396a1a50e4154a70cbad/Screenshot%202026-10-17%20192933.png)
 5. **Category Manager** — shows category names and the number of items in each category.
 ![image alt]()
 7. **Stack Management** — shows the inventory dropdown, Push/Pop/Peek controls, and stack contents.
