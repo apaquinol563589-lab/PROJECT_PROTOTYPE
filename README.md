@@ -318,10 +318,14 @@ Run these checks on the current version and record the actual results before sub
 
 Add screenshots captured from the current version of the application before final submission. Recommended screenshots are:
 
+![image alt]()
 1. **Main Menu** — shows Inventory Management, Category Manager, Stack Management, and Exit.
-2. **Inventory Management** — shows the input form and inventory table.
-3. **Category Manager** — shows category names and the number of items in each category.
-4. **Stack Management** — shows the inventory dropdown, Push/Pop/Peek controls, and stack contents.
+![image alt]()
+3. **Inventory Management** — shows the input form and inventory table.
+![image alt]()
+5. **Category Manager** — shows category names and the number of items in each category.
+![image alt]()
+7. **Stack Management** — shows the inventory dropdown, Push/Pop/Peek controls, and stack contents.
 
 Place image files in a `screenshots/` folder and link them here using relative paths, for example `![Main Menu](screenshots/main-menu.png)`.
 
