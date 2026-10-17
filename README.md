@@ -324,7 +324,7 @@ Add screenshots captured from the current version of the application before fina
 3. **Inventory Management** — shows the input form and inventory table.
 ![image alt](https://github.com/apaquinol563589-lab/PROJECT_PROTOTYPE/blob/330dfe91af4ba5617b6e396a1a50e4154a70cbad/Screenshot%202026-10-17%20192933.png)
 5. **Category Manager** — shows category names and the number of items in each category.
-![image alt]()
+![image alt](https://github.com/apaquinol563589-lab/PROJECT_PROTOTYPE/blob/1bd3e3fe0b2c04ac1a94dea6b4c8087b252d03ca/Screenshot%202026-10-17%20192941.png)
 7. **Stack Management** — shows the inventory dropdown, Push/Pop/Peek controls, and stack contents.
 
 Place image files in a `screenshots/` folder and link them here using relative paths, for example `![Main Menu](screenshots/main-menu.png)`.
