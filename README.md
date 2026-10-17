@@ -318,7 +318,7 @@ Run these checks on the current version and record the actual results before sub
 
 Add screenshots captured from the current version of the application before final submission. Recommended screenshots are:
 
-![image alt]()
+![image alt](https://github.com/apaquinol563589-lab/PROJECT_PROTOTYPE/blob/734175b7c92a3c1242fe9e041c3645c5cf341cc4/Screenshot%202026-10-17%20192914.png)
 1. **Main Menu** — shows Inventory Management, Category Manager, Stack Management, and Exit.
 ![image alt]()
 3. **Inventory Management** — shows the input form and inventory table.
