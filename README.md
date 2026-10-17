@@ -1,4 +1,4 @@
-# Inventory Management System
+# Personal Inventory Management System
 
 A desktop inventory application built with **Python**, **PyQt6**, and **SQLite3**. It allows users to maintain inventory records, organize items by category, and demonstrate the **Stack** data structure using existing inventory items.
 
@@ -327,6 +327,6 @@ Place image files in a `screenshots/` folder and link them here using relative p
 
 ## Author
 
-**Name:** Allen  
-**Section:** ____________________  
-**Project:** Inventory Management System
+**Name:** Allen James A. Paquinol
+**Course Code:** 3581 
+**Project:** Personal Inventory Management System
